@@ -29,5 +29,10 @@ I am currently a Software Engineer student with Codelab on a one year boot-camp 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ThabangRammitlwa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThabangRammitlwa&stroke=ffffff&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ThabangRammitlwa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThabangRammitlwa&stroke=ffffff&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/ThabangRammitlwa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ThabangRammitlwa&bg_color=ffffff&color=ffffff&line=0891b2&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
